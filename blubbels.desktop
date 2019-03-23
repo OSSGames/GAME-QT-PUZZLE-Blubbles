@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Blubbels
+Comment=A JawBreaker clone in Qt4
+Exec=blubbels
+Icon=blubbels
+Type=Application
+Categories=Game;

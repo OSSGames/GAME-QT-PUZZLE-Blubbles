@@ -1,0 +1,14 @@
+Source: blubbels
+Section: games
+Priority: optional
+Maintainer: Christian Pulvermacher <pulvermacher@gmx.de>
+Build-Depends: libqt4-dev, debhelper (>= 5.0.0)
+Homepage: http://sourceforge.net/projects/blubbels/
+Standards-Version: 3.7.3
+
+Package: blubbels
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A simple Jawbreaker(tm) clone written in Qt4
+ A small puzzle game where you have to remove groups of coloured bubbles to
+ collect points.

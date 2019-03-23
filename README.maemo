@@ -1,0 +1,4 @@
+To build a .deb for Maemo:
+- uncomment the 'maemo' variable in debian/rules
+- change the Section in debian/control to 'user/games'
+- finally, run 'fakeroot debian/rules binary'

@@ -1,0 +1,28 @@
+Blubbels 1.0:
+	* Ported to Maemo 5
+	* More animations
+	* Added a .desktop file and improved icons
+
+Blubbels 0.9:
+	* Changed home page to sf.net URL
+	* Added window/application icon
+	* Generate dialogs dynamically
+	* Cleaned up source
+	* Moving mouse pointer over a single bubble would show points for last group selected
+	* Settings were not stored when exiting Blubbels by closing the window
+	* Correctly center bubbles inside GameWidget
+	* Updated German translation
+	* Animations should run more smoothly now
+
+Blubbels 0.8:
+	* Fixed home page URL
+	* Added german translation
+
+Blubbels 0.7:
+	* Make sure 'blubb.wav' is found in /usr/share/games/blubbels/
+	* Reformatted About dialog
+	* Changed bubble colors for more contrast on CRT screens
+
+Blubbels 0.6:
+	* Delay on Linux while playing sound should be gone now
+	* "Selected" bubbles now have a border around them
